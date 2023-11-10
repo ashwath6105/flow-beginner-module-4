@@ -2,9 +2,9 @@
 
 ## Description
 
-"project.cdc" has the cadence code for the candence smart contract, with 3 areas.
+The repository includes Cadence code for the smart contract in "project.cdc" and Cadence script code in "script.cdc," each addressing specific aspects of the project.
 
-"script.cdc" has the code for the cadence script with area 4.
+"project.cdc" contract has code areas 1, 2 and 3 while "script.cdc" has code area 4.
 
 ## Authors
 
